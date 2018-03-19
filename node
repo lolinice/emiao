@@ -1,0 +1,37 @@
+- 点击切换颜色
+  :class="{类名：布尔值}"  类名确定，只是不确定要不要
+  :class="变量"
+  $route.path 当前请求的路径的path $route是当前路由
+
+
+  步骤
+ 首先 脚手架下载
+ 然后 修改文件文件名
+ 然后是新建路由组件和非路由组件
+ 路由组件：首页，分类页，购物车，我的E宠物
+ 非路由组建：Footer
+ 配置路由器 router.js //向外暴露vueRouter对象 (路由器对象)
+ 编写FooterGuide.vue
+   this.$router.replace(path)
+          //console.log(this); //VueComponent{},$router:VueRouter
+
+$router是路由器,里面是方法，实现编程式导航
+$route代表当前路由
+----------------
+首页 Home.vue
+模板 html 首页模板编写
+样式 css @import 'mixins.styl'
+  轮播图用swiper npm install --save swiper
+   index.js引入swiper 向外暴露的是swiper构造函数
+   Home.vue中引入swiper
+      import Swiper from 'swiper' js
+      import 'swiper/dist/css/swiper.min.css' css
+   页面展现以后才能new Swiper 所以需要在在特定生命周期中使用 mounted
+mounted(){
+      var swiper = new Swiper('.swiper-container',{ .swiper-container展现swiper管理区域
+        loop:true,
+        pagination:{ //展示指示器的原点显示在哪个容器里
+          el:'./swiper-pagination'
+        }
+      })
+    }
