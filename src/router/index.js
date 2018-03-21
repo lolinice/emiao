@@ -5,6 +5,8 @@ import Home from '../pages/Home/Home.vue'
 import Search from '../pages/Search/Search.vue'
 import Shop from '../pages/Shop/Shop.vue'
 import Myec from '../pages/Myec/Myec.vue'
+import Brand from '../pages/Brand/Brand.vue'
+import List from '../pages/List/List.vue'
 
 Vue.use(VueRouter)
 
@@ -29,9 +31,17 @@ export default new VueRouter({
       component:Myec, //组件
     },
     {
+      path:'/brand',
+      component:Brand,
+    },
+    {
+      path:'/list',
+      component:List,
+    },
+    {
       path:'/',
       redirect:'/home'
-    }
+    },
 
   ]
 })

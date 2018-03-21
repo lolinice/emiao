@@ -1,116 +1,85 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Title</title>
-  <link rel="stylesheet" href="./css/reset.css">
-  <link rel="stylesheet" href="./css/home.styl">
-  <link rel="stylesheet" href="http://at.alicdn.com/t/font_595599_j8qo54glj5fgk3xr.css">
+  <meta charset="utf-8">
+  <title>Swiper demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+
+  <!-- Link Swiper's CSS -->
+  <link rel="stylesheet" href="">
+
+  <!-- Demo styles -->
+  <style>
+    html, body {
+      position: relative;
+      height: 100%;
+    }
+    body {
+      background: #eee;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color:#000;
+      margin: 0;
+      padding: 0;
+    }
+    .swiper-container {
+      width: 100%;
+      height: 100%;
+    }
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+
+      /* Center slide text vertically */
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+    }
+  </style>
 </head>
 <body>
-<div class="main">
-  <!--头部-->
-  <div class="header">
-    <!--头部-->
-    <div class="header_inner">
-      <div class="header_box">
-        <!--头部上半部分-->
-        <div class="header_top">
-          <div class="header_top_inner">
-            <div class="header_site">
-              <a href="">
-                <span class="gougou">狗狗</span>
-                <span class="c89">|</span>
-                <span class="chongqing">重庆</span>
-                <i></i>
-              </a>
-            </div>
-            <div class="header_search">
-              <a href="">
-                <input class="header_input" type="search" placeholder="搜索商品和品牌">
-                <i class="iconfont icon-fangdajing"></i>
-              </a>
-            </div>
-            <a class="header_chat">
-              <i class="iconfont icon-liaotian1"></i>
-            </a>
-          </div>
-        </div>
-        <!--头部下半部分-->
-        <div class="header_bottom">
-          <div class="header_nav">
-            <ul class="header_list">
-              <li class="header_item">
-                <a href="">
-                <span class="header_rela">
-                  <span>首页</span>
-                  <i></i>
-                </span>
-                </a>
-              </li>
-              <li class="header_item">
-                <a href="">
-                <span class="header_rela">
-                  <span>狗狗主粮</span>
-                  <i></i>
-                </span>
-                </a>
-              </li>
-              <li class="header_item">
-                <a href="">
-                <span class="header_rela">
-                  <span>服饰城</span>
-                  <i></i>
-                </span>
-                </a>
-              </li>
-              <li class="header_item">
-                <a href="">
-                <span class="header_rela">
-                  <span>医疗保健</span>
-                  <i></i>
-                </span>
-                </a>
-              </li>
-              <li class="header_item">
-                <a href="">
-                <span class="header_rela">
-                  <span>零食玩具</span>
-                  <i></i>
-                </span>
-                </a>
-              </li>
-              <li class="header_item">
-                <a href="">
-                <span class="header_rela">
-                  <span>日用外出</span>
-                  <i></i>
-                </span>
-                </a>
-              </li>
-              <li class="header_item">
-                <a href="">
-                <span class="header_rela">
-                  <span>美容香波</span>
-                  <i></i>
-                </span>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!--眨眼-->
-    <div class="header_blink">
-      <div class="header_mao"></div>
-    </div>
+<!-- Swiper -->
+<div class="swiper-container">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">Slide 1</div>
+    <div class="swiper-slide">Slide 2</div>
+    <div class="swiper-slide">Slide 3</div>
+    <div class="swiper-slide">Slide 4</div>
+    <div class="swiper-slide">Slide 5</div>
+    <div class="swiper-slide">Slide 6</div>
+    <div class="swiper-slide">Slide 7</div>
+    <div class="swiper-slide">Slide 8</div>
+    <div class="swiper-slide">Slide 9</div>
+    <div class="swiper-slide">Slide 10</div>
   </div>
-  <!--内容区-->
-  <div class="content"></div>
-  <!--练习我们-->
-  <div class="about"></div>
+  <!-- Add Pagination -->
+  <div class="swiper-pagination"></div>
 </div>
 
+<!-- Swiper JS -->
+<script src="../dist/js/swiper.min.js"></script>
+
+<!-- Initialize Swiper -->
+<script>
+  var swiper = new Swiper('.swiper-container', {
+    slidesPerView: 3,
+    spaceBetween: 30,
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+  });
+</script>
 </body>
 </html>
