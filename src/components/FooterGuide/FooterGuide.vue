@@ -40,7 +40,7 @@
 </script>
 
 <style lang="stylus" rel="stylesheet/stylus">
-  @import "http://at.alicdn.com/t/font_595435_lmlcu3xxfglj714i.css"
+  @import "http://at.alicdn.com/t/font_595599_eta3nrnj8efav2t9.css"
   .footer_guide
     z-index 100
     background-color #fff

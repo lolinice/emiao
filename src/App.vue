@@ -3,7 +3,7 @@
     <!--显示当前路由组件-->
     <router-view></router-view>
     <!--3.写标签-->
-    <FooterGuide/>
+    <FooterGuide v-show="$route.meta.showFooter"/>
   </div>
 </template>
 

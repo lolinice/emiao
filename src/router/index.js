@@ -3,9 +3,12 @@ import VueRouter from 'vue-router'
 
 import Home from '../pages/Home/Home.vue'
 import Search from '../pages/Search/Search.vue'
+import Brand from '../pages/Search/Brand/Brand.vue'
+import Item from  '../pages/Search/Item/Item.vue'
+
 import Shop from '../pages/Shop/Shop.vue'
 import Myec from '../pages/Myec/Myec.vue'
-import Brand from '../pages/Brand/Brand.vue'
+
 import List from '../pages/List/List.vue'
 
 Vue.use(VueRouter)
@@ -15,27 +18,53 @@ Vue.use(VueRouter)
 export default new VueRouter({
   routes:[
     {
-      path:'/home',
+      path:'/home', //首页
       component:Home, //组件
+      meta:{
+        showFooter:true
+      }
     },
     {
-      path:'/search',
+      path:'/search',//分类
       component:Search, //组件
+      meta:{
+        showFooter:true
+      },
+      children:[
+        {
+          path:'/search/brand', //品牌页
+          component:Brand,
+          meta:{
+            showFooter:true
+          }
+        },
+        {
+          path:'/search/item', //分类页
+          component:Item,
+          meta:{
+            showFooter:true
+          }
+        },
+        {
+          path:'/', //品牌页
+          redirect:'/search/item',
+          meta:{
+            showFooter:true
+          }
+        }
+      ]
     },
     {
-      path:'/shop',
+      path:'/shop', //购物车
       component:Shop, //组件
+
     },
     {
-      path:'/myec',
+      path:'/myec', //我的
       component:Myec, //组件
     },
     {
-      path:'/brand',
-      component:Brand,
-    },
-    {
-      path:'/list',
+      path:'/list', //全部页
       component:List,
     },
     {

@@ -2,6 +2,10 @@ import Vue from 'vue'
 import App from './App'
 //引入路由器
 import router from './router'
+//引入mockSever
+import './mock/MockSever'
+
+
 
 Vue.config.productionTip = false
 

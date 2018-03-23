@@ -105,27 +105,27 @@
           <div class="swiper-wrapper">
             <div class="swiper-slide">
               <a href="javascript:;">
-                <img src="../../../static/images/94d4681e2ab878c340d441a5c1c7b98a.jpg" alt="">
+                <img src="./images/94d4681e2ab878c340d441a5c1c7b98a.jpg" alt="">
               </a>
             </div>
             <div class="swiper-slide">
               <a href="javascript:;">
-                <img src="../../../static/images/9f49bbf054e4dcab567e1584f48db3f0.jpg" alt="">
+                <img src="./images/9f49bbf054e4dcab567e1584f48db3f0.jpg" alt="">
               </a>
             </div>
             <div class="swiper-slide">
               <a href="javascript:;">
-                <img src="../../../static/images/d945d3f1b34e0081cf8c9eb34def9096.jpg" alt="">
+                <img src="./images/d945d3f1b34e0081cf8c9eb34def9096.jpg" alt="">
               </a>
             </div>
             <div class="swiper-slide">
               <a href="javascript:;">
-                <img src="../../../static/images/f0e3af5548da9b04aa098004e07ff6c1.jpg" alt="">
+                <img src="./images/f0e3af5548da9b04aa098004e07ff6c1.jpg" alt="">
               </a>
             </div>
             <div class="swiper-slide">
               <a href="javascript:;">
-                <img src="../../../static/images/b898562338c7f04ac9b2fa3e5aec8b4c.jpg" alt="">
+                <img src="./images/b898562338c7f04ac9b2fa3e5aec8b4c.jpg" alt="">
               </a>
             </div>
           </div>
@@ -138,52 +138,52 @@
           <ul class="content_list">
             <li class="content_item">
               <a href="javascript:;">
-                <img src="../../../static/images/4e820b334820dbb62178bd367cdd7ba6.jpg" alt="">
+                <img src="./images/4e820b334820dbb62178bd367cdd7ba6.jpg" alt="">
               </a>
             </li>
             <li class="content_item">
               <a href="javascript:;">
-                <img src="../../../static/images/9d335309be26f610a043e3bcc1e84b31.jpg" alt="">
+                <img src="./images/9d335309be26f610a043e3bcc1e84b31.jpg" alt="">
               </a>
             </li>
             <li class="content_item">
               <a href="javascript:;">
-                <img src="../../../static/images/f1d45afa77b1844883595df4be0b6b50.jpg" alt="">
+                <img src="./images/f1d45afa77b1844883595df4be0b6b50.jpg" alt="">
               </a>
             </li>
             <li class="content_item">
               <a href="javascript:;">
-                <img src="../../../static/images/55231bc567328e7c57cde19809769d99.jpg" alt="">
+                <img src="./images/55231bc567328e7c57cde19809769d99.jpg" alt="">
               </a>
             </li>
             <li class="content_item">
               <a href="javascript:;">
-                <img src="../../../static/images/59043067d26a2e7a521394c796dfa571.jpg" alt="">
+                <img src="./images/59043067d26a2e7a521394c796dfa571.jpg" alt="">
               </a>
             </li>
             <li class="content_item">
               <a href="javascript:;">
-                <img src="../../../static/images/8a3fa0fdcfe58afc3ab548f0cf8493ad.jpg" alt="">
+                <img src="./images/8a3fa0fdcfe58afc3ab548f0cf8493ad.jpg" alt="">
               </a>
             </li>
             <li class="content_item">
               <a href="javascript:;">
-                <img src="../../../static/images/bfb4d746361712b8899000ba21ae55dd.jpg" alt="">
+                <img src="./images/bfb4d746361712b8899000ba21ae55dd.jpg" alt="">
               </a>
             </li>
             <li class="content_item">
               <a href="javascript:;">
-                <img src="../../../static/images/08779496e825394821a9bb96e1ee2b29.jpg" alt="">
+                <img src="./images/08779496e825394821a9bb96e1ee2b29.jpg" alt="">
               </a>
             </li>
             <li class="content_item">
               <a href="javascript:;">
-                <img src="../../../static/images/015feab01fe5c19def0f1b83bf140b70.jpg" alt="">
+                <img src="./images/015feab01fe5c19def0f1b83bf140b70.jpg" alt="">
               </a>
             </li>
             <li class="content_item">
               <a href="javascript:;">
-                <img src="../../../static/images/a561f8d8f46d4070de082988134de6f4.jpg" alt="">
+                <img src="./images/a561f8d8f46d4070de082988134de6f4.jpg" alt="">
               </a>
             </li>
           </ul>
@@ -195,7 +195,7 @@
           <div class="swiper-wrapper">
             <div class="swiper-slide swiper-no-swiping">
               <a href="javascript:;">
-                <img src="../../../static/images/60c354a5d94be9fd114523ee77259c73.gif" alt="">
+                <img src="./images/60c354a5d94be9fd114523ee77259c73.gif" alt="">
               </a>
             </div>
           </div>
@@ -205,7 +205,7 @@
       <div class="content_surprise">
         <div class="surprise_top">
           <div class="surprise_every">
-              <img src="../../../static/images/new_index_icon_suprice.png" alt="">
+              <img src="./images/new_index_icon_suprice.png" alt="">
           </div>
           <div class="surprise_nexttip">下一场开始</div>
           <div class="surprise_time">
@@ -217,7 +217,7 @@
           </div>
           <div class="surprise_more">
             <a href="javascript:;">
-              <img src="../../../static/images/80acfffe2d91b341fd2c8de903b3eace.png" alt="">
+              <img src="./images/80acfffe2d91b341fd2c8de903b3eace.png" alt="">
             </a>
           </div>
         </div>
@@ -228,7 +228,7 @@
                 <li class="swiper-slide">
                   <a href="javascript:;">
                     <div class="surbot_img">
-                      <img src="../../../static/images/ae88c0ee37db66c0279e4db90bd3abb2.jpg" alt="">
+                      <img src="./images/ae88c0ee37db66c0279e4db90bd3abb2.jpg" alt="">
                     </div>
                     <div class="surbot_price">
                       <span>￥</span>
@@ -240,7 +240,7 @@
                 <li class="swiper-slide">
                   <a href="javascript:;">
                     <div class="surbot_img">
-                      <img src="../../../static/images/4b7bbab461aff9caf7c920f2e9469ce3.jpg" alt="">
+                      <img src="./images/4b7bbab461aff9caf7c920f2e9469ce3.jpg" alt="">
                     </div>
                     <div class="surbot_price">
                       <span>￥</span>
@@ -252,7 +252,7 @@
                 <li class="swiper-slide">
                   <a href="javascript:;">
                     <div class="surbot_img">
-                      <img src="../../../static/images/8787aaea028426252b1a62731a04ecc4.jpg" alt="">
+                      <img src="./images/8787aaea028426252b1a62731a04ecc4.jpg" alt="">
                     </div>
                     <div class="surbot_price">
                       <span>￥</span>
@@ -264,7 +264,7 @@
                 <li class="swiper-slide">
                   <a href="javascript:;">
                     <div class="surbot_img">
-                      <img src="../../../static/images/0f4f7a77f0b174f6dabd8c89d7a1bc72.jpg" alt="">
+                      <img src="./images/0f4f7a77f0b174f6dabd8c89d7a1bc72.jpg" alt="">
                     </div>
                     <div class="surbot_price">
                       <span>￥</span>
@@ -287,15 +287,15 @@
         <div class="echong_inner">
           <div class="echong_left">
             <a href="javascript:;" class="ecleft">
-              <img src="../../../static/images/1ec9379f83eb421db9a09195c9594e29.jpg" alt="">
+              <img src="./images/1ec9379f83eb421db9a09195c9594e29.jpg" alt="">
             </a>
           </div>
           <div class="echong_right">
             <a href="javascript:;" class="ecright_top">
-              <img src="../../../static/images/6c2998af853e701a2f884b92066058e5.jpg" alt="">
+              <img src="./images/6c2998af853e701a2f884b92066058e5.jpg" alt="">
             </a>
             <a href="javascript:;" class="ecright_bot">
-              <img src="../../../static/images/8beae6b2a068996df0a0b9e5d62bed99.jpg" alt="">
+              <img src="./images/8beae6b2a068996df0a0b9e5d62bed99.jpg" alt="">
             </a>
           </div>
         </div>
@@ -306,7 +306,7 @@
           <div class="swiper-wrapper">
             <div class="swiper-slide swiper-no-swiping">
               <a href="javascript:;">
-                <img src="../../../static/images/da7ce5c4cfccf8669eebb227b2f6b522.jpg" alt="">
+                <img src="./images/da7ce5c4cfccf8669eebb227b2f6b522.jpg" alt="">
               </a>
             </div>
           </div>
@@ -320,11 +320,11 @@
       <div class="content_chao">
         <div class="inner_chao">
           <div class="chao_left">
-            <img src="../../../static/images/38688d8d92c7da7aae64eda8b8bb3a94.jpg" alt="">
+            <img src="./images/38688d8d92c7da7aae64eda8b8bb3a94.jpg" alt="">
           </div>
           <div class="chao_right">
             <a href="javascript:;">
-              <img src="../../../static/images/0855ecf27a6ca47b32170caab2503ddd.jpg" alt="">
+              <img src="./images/0855ecf27a6ca47b32170caab2503ddd.jpg" alt="">
             </a>
           </div>
         </div>
@@ -336,7 +336,7 @@
             <li class="video_item">
               <a href="javascript:;">
                 <div class="video_top">
-                  <img src="../../../static/images/61023e6ce2a6fb3f198400747eccf4b0.jpg" alt="">
+                  <img src="./images/61023e6ce2a6fb3f198400747eccf4b0.jpg" alt="">
                   <span class="iconfont icon-bofang"></span>
                 </div>
                 <div class="video_bottom">
@@ -358,18 +358,18 @@
         <div class="inner_achong">
           <div class="achong_left">
             <a href="javascript:;">
-              <img src="../../../static/images/4c32811744e04f6b63632b42a0d5325d.jpg" alt="">
+              <img src="./images/4c32811744e04f6b63632b42a0d5325d.jpg" alt="">
             </a>
             <a href="javascript:;">
-              <img src="../../../static/images/fa66a0c8437b6fb8137c58d9b6ccb1c6.jpg" alt="">
+              <img src="./images/fa66a0c8437b6fb8137c58d9b6ccb1c6.jpg" alt="">
             </a>
           </div>
           <div class="achong_right">
             <a href="javascript:;">
-              <img src="../../../static/images/9aa462284ec8a79694fa5c9ce062d5ab.jpg" alt="">
+              <img src="./images/9aa462284ec8a79694fa5c9ce062d5ab.jpg" alt="">
             </a>
             <a href="javascript:;">
-              <img src="../../../static/images/6e3a2cb186e1028d481940c42fb54732.jpg" alt="">
+              <img src="./images/6e3a2cb186e1028d481940c42fb54732.jpg" alt="">
             </a>
           </div>
         </div>
@@ -378,11 +378,11 @@
       <div class="content_brand">
         <div class="inner_brand">
           <div class="brand_left">
-            <img src="../../../static/images/11acf905ca327ed7aae8f9b4851850a0.jpg" alt="">
+            <img src="./images/11acf905ca327ed7aae8f9b4851850a0.jpg" alt="">
           </div>
           <div class="brand_right">
             <a href="javascript:;">
-              <img src="../../../static/images/0855ecf27a6ca47b32170caab2503ddd.jpg" alt="">
+              <img src="./images/0855ecf27a6ca47b32170caab2503ddd.jpg" alt="">
             </a>
           </div>
         </div>
@@ -391,77 +391,77 @@
       <div class="content_list">
         <div class="inner_list">
           <a href="javascript:;">
-            <img src="../../../static/images/6fa1223b6ad85e77ad639a8ca00c5e00.jpg" alt="">
+            <img src="./images/6fa1223b6ad85e77ad639a8ca00c5e00.jpg" alt="">
           </a>
         </div>
       </div>
       <div class="content_list">
         <div class="inner_list">
           <a href="javascript:;">
-            <img src="../../../static/images/dc22a4eea264c2e70707f12de67dd347.jpg" alt="">
+            <img src="./images/dc22a4eea264c2e70707f12de67dd347.jpg" alt="">
           </a>
         </div>
       </div>
       <div class="content_list">
         <div class="inner_list">
           <a href="javascript:;">
-            <img src="../../../static/images/995736e020761b90492f1f391d6dc0bf.jpg" alt="">
+            <img src="./images/995736e020761b90492f1f391d6dc0bf.jpg" alt="">
           </a>
         </div>
       </div>
       <div class="content_list">
         <div class="inner_list">
           <a href="javascript:;">
-            <img src="../../../static/images/c71515d0ee5077ac7b257f29156aa321.jpg" alt="">
+            <img src="./images/c71515d0ee5077ac7b257f29156aa321.jpg" alt="">
           </a>
         </div>
       </div>
       <div class="content_list">
         <div class="inner_list">
           <a href="javascript:;">
-            <img src="../../../static/images/fa0c672b503c32d4f6fadf6f92c8dfa6.jpg" alt="">
+            <img src="./images/fa0c672b503c32d4f6fadf6f92c8dfa6.jpg" alt="">
           </a>
         </div>
       </div>
       <div class="content_list">
         <div class="inner_list">
           <a href="javascript:;">
-            <img src="../../../static/images/1eaf8254b3c8d761d454838b4cf0d55b.jpg" alt="">
+            <img src="./images/1eaf8254b3c8d761d454838b4cf0d55b.jpg" alt="">
           </a>
         </div>
       </div>
       <div class="content_list">
         <div class="inner_list">
           <a href="javascript:;">
-            <img src="../../../static/images/ee3e98ed85c4dce3bf36e7c919e11cde.jpg" alt="">
+            <img src="./images/ee3e98ed85c4dce3bf36e7c919e11cde.jpg" alt="">
           </a>
         </div>
       </div>
       <div class="content_list">
         <div class="inner_list">
           <a href="javascript:;">
-            <img src="../../../static/images/373d7f59a56905e694c6327dab40b7e4.jpg" alt="">
+            <img src="./images/373d7f59a56905e694c6327dab40b7e4.jpg" alt="">
           </a>
         </div>
       </div>
       <div class="content_list">
         <div class="inner_list">
           <a href="javascript:;">
-            <img src="../../../static/images/d0fc0a13c17ae61fc7bfed2397b94eab.jpg" alt="">
+            <img src="./images/d0fc0a13c17ae61fc7bfed2397b94eab.jpg" alt="">
           </a>
         </div>
       </div>
       <div class="content_list">
         <div class="inner_list">
           <a href="javascript:;">
-            <img src="../../../static/images/e81498d7d3f9026cda7eaf85febd27d7.jpg" alt="">
+            <img src="./images/e81498d7d3f9026cda7eaf85febd27d7.jpg" alt="">
           </a>
         </div>
       </div>
       <div class="content_list">
         <div class="inner_list">
           <a href="javascript:;">
-            <img src="../../../static/images/c1f53414f3590d677f4bbb95ba6d950c.jpg" alt="">
+            <img src="./images/c1f53414f3590d677f4bbb95ba6d950c.jpg" alt="">
           </a>
         </div>
       </div>
@@ -469,11 +469,11 @@
       <div class="content_meng">
         <div class="inner_meng">
           <div class="meng_left">
-            <img src="../../../static/images/79d53b0ab1c8a630802d74b5beb0a632.jpg" alt="">
+            <img src="./images/79d53b0ab1c8a630802d74b5beb0a632.jpg" alt="">
           </div>
           <div class="meng_right">
             <a href="javascript:;">
-              <img src="../../../static/images/0855ecf27a6ca47b32170caab2503ddd.jpg" alt="">
+              <img src="./images/0855ecf27a6ca47b32170caab2503ddd.jpg" alt="">
             </a>
           </div>
         </div>
@@ -484,17 +484,17 @@
           <div class="swiper-wrapper">
             <div class="swiper-slide">
               <a href="javascript:;">
-                <img src="../../../static/images/b073c19240df889b01e80049269cc8e9.jpg" alt="">
+                <img src="./images/b073c19240df889b01e80049269cc8e9.jpg" alt="">
               </a>
             </div>
             <div class="swiper-slide">
               <a href="javascript:;">
-                <img src="../../../static/images/88e109afbed0ddf3858afd92841010af.jpg" alt="">
+                <img src="./images/88e109afbed0ddf3858afd92841010af.jpg" alt="">
               </a>
             </div>
             <div class="swiper-slide">
               <a href="javascript:;">
-                <img src="../../../static/images/5cb345f0e7eea8c0cf01cb5d61f25536.jpg" alt="">
+                <img src="./images/5cb345f0e7eea8c0cf01cb5d61f25536.jpg" alt="">
               </a>
             </div>
           </div>
@@ -505,11 +505,11 @@
       <div class="content_chao">
         <div class="inner_chao">
           <div class="chao_left">
-            <img src="../../../static/images/77c0017136e51145788b7607a3a0914c.jpg" alt="">
+            <img src="./images/77c0017136e51145788b7607a3a0914c.jpg" alt="">
           </div>
           <div class="chao_right">
             <a href="javascript:;">
-              <img src="../../../static/images/0855ecf27a6ca47b32170caab2503ddd.jpg" alt="">
+              <img src="./images/0855ecf27a6ca47b32170caab2503ddd.jpg" alt="">
             </a>
           </div>
         </div>
@@ -521,7 +521,7 @@
             <li class="video_item">
               <a href="javascript:;">
                 <div class="video_top">
-                  <img src="../../../static/images/5837d50b4993a5de2aff2b26ce8cf3d5.png" alt="">
+                  <img src="./images/5837d50b4993a5de2aff2b26ce8cf3d5.png" alt="">
                   <span class="iconfont icon-bofang"></span>
                 </div>
                 <div class="video_bottom">
@@ -542,11 +542,11 @@
       <div class="content_chao">
         <div class="inner_chao">
           <div class="chao_left">
-            <img src="../../../static/images/e747ca83834dbd4d1f9663f11f7bf146.jpg" alt="">
+            <img src="./images/e747ca83834dbd4d1f9663f11f7bf146.jpg" alt="">
           </div>
           <div class="chao_right">
             <a href="javascript:;">
-              <img src="../../../static/images/0855ecf27a6ca47b32170caab2503ddd.jpg" alt="">
+              <img src="./images/0855ecf27a6ca47b32170caab2503ddd.jpg" alt="">
             </a>
           </div>
         </div>
@@ -558,7 +558,7 @@
             <li class="video_item">
               <a href="javascript:;">
                 <div class="video_top">
-                  <img src="../../../static/images/9a69149e95bdf03b3957262f2375d27b.png" alt="">
+                  <img src="./images/9a69149e95bdf03b3957262f2375d27b.png" alt="">
                   <span class="iconfont icon-bofang"></span>
                 </div>
                 <div class="video_bottom">
@@ -579,7 +579,7 @@
       <div class="content_end">
         <div class="inner_end">
           <a href="javascript:;">
-            <img src="../../../static/images/be84f01e893b0e631d8512566eb79117.jpg" alt="">
+            <img src="./images/be84f01e893b0e631d8512566eb79117.jpg" alt="">
           </a>
         </div>
       </div>
@@ -638,7 +638,7 @@
 </script>
 
 <style lang="stylus" rel="stylesheet/stylus" scoped>
-  @import "http://at.alicdn.com/t/font_595599_9np1z83ymrou5wmi.css"
+  @import "http://at.alicdn.com/t/font_595599_eta3nrnj8efav2t9.css"
   @import "../../common/stylus/mixins.styl"
   @import "../../../static/css/reset.css"
 

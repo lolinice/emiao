@@ -1,19 +1,5 @@
 <template>
   <div>
-    <!--头部-->
-    <div class="header">
-      <div class="header_left" :class="{on:$route.path==='/search'}" @click="goto('/search')">
-        <a href="javascript:;">
-          <span>分类</span>
-        </a>
-      </div>
-      <div class="header_right on">
-        <a href="javascript:;">
-          <span>品牌</span>
-        </a>
-      </div>
-      <a href="javascript:;" class="iconfont icon-fangdajing"></a>
-    </div>
     <!--内容区-->
     <div class="content_brand">
       <!--套路-->
@@ -26,7 +12,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -37,7 +23,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -48,7 +34,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -59,7 +45,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -70,7 +56,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -81,7 +67,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -92,7 +78,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -103,7 +89,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -114,7 +100,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -125,7 +111,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -136,7 +122,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -147,7 +133,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -158,7 +144,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -178,7 +164,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -189,7 +175,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -200,7 +186,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -211,7 +197,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -222,7 +208,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -233,7 +219,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -244,7 +230,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -255,7 +241,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -266,7 +252,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -277,7 +263,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -288,7 +274,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -299,7 +285,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -310,7 +296,7 @@
             <li class="introduce_item">
               <a href="javascript:;">
                 <div class="introduce_img">
-                  <img src="../../../static/images2/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
+                  <img src="./images/3b236d1731bd91004bffcec3515e1a0a.jpg" alt="">
                 </div>
                 <div class="introduce_jian"></div>
                 <span class="introduce_gongyi"></span>
@@ -342,54 +328,10 @@
 </script>
 
 <style lang="stylus" rel="stylesheet/stylus" scoped>
-  @import "http://at.alicdn.com/t/font_595599_7qv416xmrall3di.css"
-  @import "../../common/stylus/mixins.styl"
-  @import "../../../static/css/reset.css"
+  @import "http://at.alicdn.com/t/font_595599_eta3nrnj8efav2t9.css"
+  @import "../../../common/stylus/mixins.styl"
+  @import "../../../../static/css/reset.css"
   /*头部*/
-  .header
-    border-bottom 1px solid #cbcbcb
-    position fixed
-    top 0px
-    left 50%
-    transform translateX(-50%)
-    height 40px
-    padding-bottom 2px
-    z-index 11
-    background #ffffff
-    width 100%
-    .header_left,.header_right
-      font-size 13px
-      font-weight 700
-      display inline-block
-      width 30%
-      height 40px
-      line-height 40px
-      box-sizing border-box
-    .header_left
-      float left
-      margin-left 50px
-      >a
-        float right
-    .header_right
-      float right
-      margin-right  50px
-      >a
-        float left
-        border-bottom 2px red solid
-        span
-          display inline-block
-          height 40px
-          padding 0px 6px
-          cursor pointer
-          color #333
-    .on span
-      color #ed4044
-    .icon-fangdajing
-      position absolute
-      top 10px
-      right 10px
-      font-size 18px
-
   /*内容区*/
   .content_brand
     padding-top 45px
